@@ -1,0 +1,5 @@
+export const ADD_CONTENT = "ADD_CONTENT";
+export const TOGGLE_ROLE = "TOGGLE_ROLE";
+export const LOAD_CONTENT = "LOAD_CONTENT";
+export const DELETE_CONTENT = "DELETE_CONTENT";
+export const UPDATE_CONTENT = "UPDATE_CONTENT";
